@@ -1,0 +1,15 @@
+# build output / IDE
+bin/
+obj/
+.vs/
+Debug/
+Release/
+x64/
+x86/
+.idea/
+node_modules/
+dist/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
